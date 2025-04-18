@@ -1,0 +1,2 @@
+🔹 Introduction:
+Site Reliability Engineering (SRE) is Google's approach to applying software engineering to IT operations. The goal is to build scalable, reliable systems. It introduces engineering principles into system administration and focuses on reducing manual operations (toil), automating infrastructure, monitoring, incident response, and managing reliability via SLIs, SLOs, and SLAs.
