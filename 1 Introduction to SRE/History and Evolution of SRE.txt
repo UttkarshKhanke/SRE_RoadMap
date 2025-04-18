@@ -1,0 +1,18 @@
+📜 History and Evolution of SRE (Short Summary)
+2003 – Google Invents SRE:
+The concept of Site Reliability Engineering was created at Google by Ben Treynor Sloss, a software engineer who was tasked with leading operations. He described SRE as "what happens when you ask a software engineer to design an operations team."
+
+Problem It Solved:
+Traditional Ops teams couldn’t keep up with the scale and speed of changes in modern software. Google wanted engineers to apply coding principles to manage systems more reliably and automatically.
+
+Core Idea:
+Use software engineering to solve operations problems like downtime, scaling, monitoring, and reliability — rather than relying on manual work.
+
+2016 – Google Shares the Concept:
+Google published the "Site Reliability Engineering" book (aka the SRE Book), making the practice public. It became an industry reference.
+
+Post-2016 – Industry Adoption:
+Companies like Facebook, Netflix, Amazon, LinkedIn, Microsoft started adopting SRE principles. The role of "SRE" became mainstream.
+
+Today:
+SRE is now a critical discipline in modern DevOps and cloud-native ecosystems, helping businesses build scalable, resilient, and highly available systems.
