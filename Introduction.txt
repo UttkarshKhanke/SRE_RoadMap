@@ -1,0 +1,2 @@
+SRE stands for Site Reliability Engineering, a software engineering approach to IT operations that focuses on improving the reliability and performance of software systems. SREs use software tools and automation to manage infrastructure, monitor applications, and ensure the availability, performance, and efficiency of systems. Essentially, it's about treating IT operations as a software problem. 
+Here's a more detailed explanation:
