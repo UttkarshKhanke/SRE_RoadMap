@@ -1,0 +1,4 @@
+💡 Quick Analogy
+DevOps is like the philosophy or guiding principle.
+
+SRE is one way (Google’s way) to implement DevOps using engineering practices.
