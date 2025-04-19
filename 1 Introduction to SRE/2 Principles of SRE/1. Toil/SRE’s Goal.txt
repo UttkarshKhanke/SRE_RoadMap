@@ -1,0 +1,2 @@
+🎯 SRE’s Goal:
+Keep toil below 50% of an SRE’s time. The rest should be spent on engineering projects, automation, and improving reliability.
