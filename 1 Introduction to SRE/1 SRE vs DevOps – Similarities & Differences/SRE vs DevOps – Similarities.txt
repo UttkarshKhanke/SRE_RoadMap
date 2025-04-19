@@ -1,0 +1,10 @@
+🔁 SRE vs DevOps – Similarities
+
+🔷 Aspect	✅ Similarities
+Goal	Both aim to deliver software faster, reliably, and at scale.
+Automation	Strong focus on automation to reduce manual work and errors.
+Collaboration	Promote collaboration between dev and ops teams.
+Monitoring & Observability	Emphasize metrics, logging, and proactive issue detection.
+CI/CD	Both embrace Continuous Integration / Continuous Delivery practices.
+Incident Management	Handle incidents systematically, learn from failures.
+Cloud-Native Focus	Fit naturally into cloud-native and microservices environments.
