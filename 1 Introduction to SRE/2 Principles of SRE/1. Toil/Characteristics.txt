@@ -1,0 +1,10 @@
+⚙️ Characteristics:
+Manual – done by humans
+
+Repetitive – happens often, no creative value
+
+Automatable – machines can do it
+
+Tactical – not tied to product features or innovation
+
+🎯 SRE’s Goal:
