@@ -1,0 +1,2 @@
+✅ What is Toil?
+Toil is manual, repetitive, automatable, and non-value-adding work required to maintain a system’s service.
