@@ -1,0 +1,2 @@
+✅ What is an Error Budget?
+An error budget is the acceptable amount of failure or downtime a service can have over a specific period without violating the SLO.
