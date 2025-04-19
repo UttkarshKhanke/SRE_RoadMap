@@ -1,0 +1,11 @@
+🔀 SRE vs DevOps – Key Differences
+
+🔶 Category	🛠️ DevOps	🧠 SRE
+Definition	A culture and set of practices that bridge dev and ops.	A specific implementation of DevOps, originated at Google.
+Origin	Coined in 2009 by Patrick Debois.	Created at Google in 2003 by Ben Treynor Sloss.
+Approach	Focuses on process and culture change (CI/CD, infra automation).	Focuses on engineering solutions to operations problems.
+Metrics Focus	Measures deployment frequency, lead time, MTTR, etc.	Uses SLIs, SLOs, SLAs, and error budgets to measure reliability.
+Tooling	Tools vary widely — Jenkins, Docker, Ansible, etc.	Uses tools + formal practices like SLI/SLO/Error Budget/Blameless postmortems.
+Team Structure	Encourages cross-functional teams (Dev + Ops together).	Has a dedicated SRE team working closely with product/dev teams.
+Toil	Reduces toil indirectly via automation.	Quantifies and aggressively reduces toil.
+Incident Handling	Process-oriented; depends on org.	Formalized processes: on-call, postmortems, escalation, alert tuning.
