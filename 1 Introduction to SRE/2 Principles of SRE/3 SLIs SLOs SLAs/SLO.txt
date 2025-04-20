@@ -1,0 +1,5 @@
+✅ SLO – Service Level Objective
+The target goal for your SLI — what you strive to achieve.
+
+📍 Example: “The service will have 99.95% availability over 30 days.”
+
