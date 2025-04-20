@@ -1,0 +1,12 @@
+✅ SLI – Service Level Indicator
+A quantitative measure of performance, like:
+
+Request latency
+
+Error rate
+
+Availability
+
+Throughput
+
+📍 Example: “95% of requests complete in under 300ms.”
