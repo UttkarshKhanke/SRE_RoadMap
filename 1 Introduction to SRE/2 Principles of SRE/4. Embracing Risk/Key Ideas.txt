@@ -1,0 +1,8 @@
+📌 Key Ideas:
+Perfect reliability ≠ Practical — always comes at a cost.
+
+Use SLOs and error budgets to balance trade-offs.
+
+Calculated risk-taking is encouraged when within budget.
+
+Encourages blameless postmortems to learn from failure.
