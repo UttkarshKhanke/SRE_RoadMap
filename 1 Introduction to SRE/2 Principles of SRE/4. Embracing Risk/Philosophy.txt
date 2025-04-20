@@ -1,0 +1,3 @@
+🎯 Philosophy:
+“Reliability is a product feature.”
+SREs make data-driven decisions about how reliable a system should be, based on user needs.
