@@ -1,0 +1,6 @@
+📌 Purpose:
+Balances innovation and reliability.
+
+Developers can deploy freely until the budget is used up.
+
+If the budget is exhausted, reliability takes priority over new features.
