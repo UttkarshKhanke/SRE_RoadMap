@@ -1,0 +1,4 @@
+✅ SLA – Service Level Agreement
+A formal/legal commitment between a provider and user — often includes penalties if targets are not met.
+
+📍 Example: “If availability drops below 99.5%, the customer gets a 10% refund.”
