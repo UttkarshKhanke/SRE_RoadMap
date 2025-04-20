@@ -1,0 +1,8 @@
+SLA ≥ SLO ≥ SLI
+
+SLIs are what you measure
+
+SLOs are goals
+
+SLAs are contracts
+
