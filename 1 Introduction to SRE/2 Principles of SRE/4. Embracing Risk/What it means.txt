@@ -1,0 +1,2 @@
+✅ What It Means:
+Instead of trying to achieve 100% reliability (which is impossible and costly), SRE embraces the fact that failure will happen.
