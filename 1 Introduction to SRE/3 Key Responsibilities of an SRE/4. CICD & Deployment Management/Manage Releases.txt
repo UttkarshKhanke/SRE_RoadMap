@@ -1,0 +1,4 @@
+🔹 Manage Releases
+Implement and maintain CI/CD pipelines
+
+Support safe, fast, and reliable deployments
