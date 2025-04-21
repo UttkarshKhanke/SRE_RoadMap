@@ -1,0 +1,5 @@
+🔹 Manage Infrastructure
+Use IaC tools like Terraform, Ansible, or Pulumi
+
+Ensure systems are self-healing, scalable, and version-controlled
+
