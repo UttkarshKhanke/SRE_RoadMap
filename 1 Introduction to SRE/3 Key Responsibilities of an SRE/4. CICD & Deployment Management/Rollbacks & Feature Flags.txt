@@ -1,0 +1,4 @@
+🔹 Rollbacks & Feature Flags
+Use feature flags, blue-green deployments, or canary releases
+
+Ensure rapid rollback if issues occur
