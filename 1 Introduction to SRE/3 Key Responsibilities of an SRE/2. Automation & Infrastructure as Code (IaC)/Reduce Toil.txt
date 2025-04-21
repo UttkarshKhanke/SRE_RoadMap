@@ -1,0 +1,4 @@
+ Reduce Toil
+Automate manual, repetitive tasks
+
+Use scripts, tools, and CI/CD pipelines to handle deployment, scaling, and maintenance
