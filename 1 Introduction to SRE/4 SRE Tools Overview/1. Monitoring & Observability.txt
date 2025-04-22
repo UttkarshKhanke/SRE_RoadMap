@@ -1,0 +1,9 @@
+🔍 1. Monitoring & Observability
+
+🛠 Tool	🔎 Description
+Prometheus	Time-series metrics monitoring and alerting toolkit; great for collecting custom metrics.
+Grafana	Powerful dashboarding tool to visualize data from Prometheus, Loki, etc.
+Datadog	Cloud-based observability platform with monitoring, APM, and log management.
+New Relic	Full-stack observability platform with infrastructure, APM, logs, and more.
+Zabbix	Traditional open-source monitoring system, widely used for infra monitoring.
+ELK Stack (Elasticsearch, Logstash, Kibana)	Used for centralized logging and analytics.
