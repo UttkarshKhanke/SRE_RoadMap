@@ -1,0 +1,10 @@
+📌 Summary Table
+
+🧩 Category	💼 Key Responsibilities
+Reliability	SLIs/SLOs/Error Budgets, Availability
+Automation	IaC, Scripted Deployments, Auto-healing
+Incident Response	On-call, Blameless Postmortems
+CI/CD	Pipelines, Safe Deployments
+Observability	Monitoring, Tracing, Dashboards
+Security	Hardening, Compliance Support
+Collaboration	Cross-team alignment, Playbooks
