@@ -1,0 +1,7 @@
+⚙️ 3. Infrastructure as Code (IaC)
+
+🛠 Tool	🔎 Description
+Terraform	Declarative IaC tool used to provision and manage cloud infrastructure.
+Ansible	Configuration management and provisioning tool (agentless).
+Pulumi	IaC tool that uses real programming languages like Python, TypeScript.
+Chef / Puppet	Traditional CM tools for automating server setup and management.
