@@ -1,0 +1,8 @@
+🚀 4. CI/CD & Automation
+
+🛠 Tool	🔎 Description
+Jenkins	Open-source automation server for CI/CD pipelines.
+GitLab CI/CD	CI/CD built into GitLab, integrates directly with Git repos.
+Argo CD	Kubernetes-native GitOps continuous delivery tool.
+Spinnaker	Multi-cloud continuous delivery platform used for safe deployments.
+Flux	GitOps tool for Kubernetes that automates delivery based on Git commits.
