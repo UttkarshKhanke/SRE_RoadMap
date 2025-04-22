@@ -1,0 +1,4 @@
+🔹 Harden Infrastructure
+Ensure security best practices in cloud and on-prem environments
+
+Work with security teams to manage vulnerabilities and audits
