@@ -1,0 +1,7 @@
+☁️ 5. Cloud Platforms & Kubernetes
+
+🛠 Tool	🔎 Description
+Kubernetes	Container orchestration platform; central to modern SRE work.
+Helm	Package manager for Kubernetes to simplify deployment of applications.
+Istio / Linkerd	Service meshes that provide observability, traffic management, and security for microservices.
+AWS / GCP / Azure	Cloud platforms SREs must manage and monitor for scalability and reliability.
