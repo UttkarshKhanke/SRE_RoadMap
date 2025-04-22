@@ -1,0 +1,4 @@
+🔹 Cross-Team Communication
+Work with Dev, QA, Product, and Ops teams
+
+Help Devs write more reliable code and define meaningful metrics
