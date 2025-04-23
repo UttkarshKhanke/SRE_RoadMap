@@ -1,0 +1,1 @@
+-rwxr-xr-- 1 user group 1234 Jan 1 10:00 file.txt
