@@ -1,0 +1,5 @@
+📚 8. Knowledge Management & Documentation
+
+🛠 Tool	🔎 Description
+Confluence / Notion	Team collaboration tools for creating SRE runbooks, postmortems, and docs.
+Runbook Automation	Tools/scripts that automate documented procedures (e.g., Rundeck, StackStorm).
