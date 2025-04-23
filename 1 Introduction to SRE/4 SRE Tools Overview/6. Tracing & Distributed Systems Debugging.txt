@@ -1,0 +1,6 @@
+🔁 6. Tracing & Distributed Systems Debugging
+
+🛠 Tool	🔎 Description
+Jaeger	Distributed tracing system, used to track request flows across services.
+OpenTelemetry	Open standard for collecting traces, metrics, and logs.
+Zipkin	Another distributed tracing tool (simple and easy to deploy).
