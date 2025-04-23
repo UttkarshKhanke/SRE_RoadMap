@@ -1,0 +1,6 @@
+🧠 1. Introduction to the Linux Shell
+🔹 What is the Linux Shell?
+A command-line interface (CLI) that lets you interact with the operating system.
+
+Common shells: bash, zsh, fish, sh
+
