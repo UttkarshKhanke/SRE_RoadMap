@@ -1,0 +1,9 @@
+🧪 8. Networking Essentials
+
+📌 Command	🔍 Description
+ping	Test connectivity
+curl	Make HTTP requests
+wget	Download files
+ifconfig / ip addr	View network info
+netstat / ss	Check open ports
+telnet / nc	Test port connectivity
