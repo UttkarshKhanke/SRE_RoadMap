@@ -1,0 +1,10 @@
+🧑‍💻 5. User & Process Management
+
+📌 Command	🔍 Description
+whoami	Show current user
+id	Show user ID and groups
+ps aux	Show running processes
+top / htop	Real-time process monitor
+kill	Terminate a process
+kill -9 PID	Forcefully kill a process
+sudo	Run as root/admin
