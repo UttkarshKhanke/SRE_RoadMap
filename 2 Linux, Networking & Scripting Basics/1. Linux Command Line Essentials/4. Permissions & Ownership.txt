@@ -1,0 +1,7 @@
+🔐 4. Permissions & Ownership
+
+📌 Command	🔍 Description
+ls -l	View file permissions
+chmod	Change file permissions
+chown	Change file owner
+umask	Default permission settings
