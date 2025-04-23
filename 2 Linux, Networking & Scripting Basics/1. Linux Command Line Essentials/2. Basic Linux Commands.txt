@@ -1,0 +1,16 @@
+💡 2. Basic Linux Commands
+
+📌 Command	🔍 Description
+pwd	Print current directory
+ls	List files and directories
+cd	Change directory
+mkdir	Create new directory
+rmdir	Remove empty directory
+touch	Create an empty file
+rm	Delete files/directories
+cp	Copy files
+mv	Move or rename files
+cat	Display file content
+more / less	Paginate file content
+echo	Print to screen
+clear	Clear terminal screen
