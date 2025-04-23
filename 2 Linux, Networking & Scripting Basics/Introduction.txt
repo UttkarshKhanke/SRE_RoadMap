@@ -1,0 +1,2 @@
+🔹 Introduction:
+A solid foundation in Linux and scripting is essential for automating tasks, understanding infrastructure, and managing servers.
