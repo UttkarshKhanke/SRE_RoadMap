@@ -1,0 +1,6 @@
+ls -l       # List files with permissions
+cd /etc     # Change directory
+df -h       # Show disk space usage
+du -sh *    # Show directory sizes
+mount       # Show mounted file systems
+umount /mnt # Unmount a drive
