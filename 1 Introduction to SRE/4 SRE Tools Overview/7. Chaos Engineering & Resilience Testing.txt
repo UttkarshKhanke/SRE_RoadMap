@@ -1,0 +1,6 @@
+🧠 7. Chaos Engineering & Resilience Testing
+
+🛠 Tool	🔎 Description
+Chaos Monkey	Created by Netflix, randomly terminates instances to test system resilience.
+Gremlin	SaaS platform for chaos engineering and failure injection.
+LitmusChaos	Kubernetes-native chaos testing framework.
