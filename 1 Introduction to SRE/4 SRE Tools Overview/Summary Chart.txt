@@ -1,0 +1,11 @@
+📌 Summary Chart
+
+🧩 Category	🧰 Popular Tools
+Monitoring & Logs	Prometheus, Grafana, ELK, Datadog
+Alerting & Incidents	Alertmanager, PagerDuty, Opsgenie
+IaC & Automation	Terraform, Ansible, Pulumi
+CI/CD	Jenkins, GitLab CI, Argo CD
+Cloud & Kubernetes	AWS, GCP, Kubernetes, Helm
+Tracing & Observability	Jaeger, Zipkin, OpenTelemetry
+Chaos Engineering	Chaos Monkey, Gremlin, Litmus
+Docs & Playbooks	Notion, Confluence, Runbook Tools
