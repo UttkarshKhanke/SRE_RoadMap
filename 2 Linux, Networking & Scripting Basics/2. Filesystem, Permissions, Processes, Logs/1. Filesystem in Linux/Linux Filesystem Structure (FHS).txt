@@ -1,0 +1,13 @@
+🔹 Linux Filesystem Structure (FHS)
+
+Directory	Purpose
+/	Root directory – the top of the filesystem
+/home/	User directories (e.g., /home/alex)
+/etc/	Configuration files
+/var/	Variable data (logs, mail, etc.)
+/bin/	Essential user binaries
+/usr/	User programs and data
+/lib/	System libraries
+/tmp/	Temporary files
+/dev/	Device files
+/mnt/ & /media/	Mount points for external drives
