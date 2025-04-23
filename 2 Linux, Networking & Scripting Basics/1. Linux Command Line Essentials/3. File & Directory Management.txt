@@ -1,0 +1,8 @@
+🗃️ 3. File & Directory Management
+
+📌 Command	🔍 Description
+find	Search files and folders
+locate	Fast file search (uses a database)
+stat	Show detailed file info
+du -sh	Check file/directory size
+df -h	Disk space usage
