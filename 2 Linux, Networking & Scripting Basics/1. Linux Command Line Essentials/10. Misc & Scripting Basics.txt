@@ -1,0 +1,10 @@
+🧰 10. Misc & Scripting Basics
+
+📌 Command	🔍 Description
+history	Show command history
+alias	Create shortcut command
+crontab -e	Edit scheduled tasks
+uname -a	System info
+uptime	System running time
+df -h	Disk usage
+free -m	Memory usage
