@@ -1,0 +1,6 @@
+🔹 Commands
+
+Command	Description
+chmod	Change permissions
+chown	Change ownership
+chgrp	Change group
