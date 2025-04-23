@@ -1,0 +1,7 @@
+🔁 9. Archives & Compression
+
+📌 Command	🔍 Description
+tar -cvf	Create archive
+tar -xvf	Extract archive
+zip / unzip	Zip/unzip files
+gzip / gunzip	Compress and decompress
