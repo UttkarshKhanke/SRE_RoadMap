@@ -1,0 +1,9 @@
+📁 7. File Viewing & Editing
+
+📌 Command	🔍 Description
+nano	Easy terminal-based text editor
+vi / vim	Advanced text editor
+tail -f	View real-time logs
+head	View beginning of a file
+grep	Search text within files
+cut / awk	Extract text by pattern/column
