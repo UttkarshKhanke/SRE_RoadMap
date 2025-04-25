@@ -1,0 +1,2 @@
+netstat -tulnp    # TCP/UDP, listening ports with PIDs
+ss -tuln          # Faster replacement for netstat
