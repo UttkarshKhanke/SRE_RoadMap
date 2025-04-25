@@ -1,0 +1,12 @@
+🛰️ HTTP (HyperText Transfer Protocol)
+The foundation of communication on the web.
+
+Works over:
+
+Port 80 (HTTP)
+
+Port 443 (HTTPS)
+
+📌 Common HTTP Methods:
+
+GET, POST, PUT, DELETE, HEAD
