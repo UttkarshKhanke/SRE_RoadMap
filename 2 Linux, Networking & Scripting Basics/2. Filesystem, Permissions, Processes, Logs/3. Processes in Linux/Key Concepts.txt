@@ -1,0 +1,6 @@
+🔹 Key Concepts
+Process: A running instance of a program
+
+PID: Process ID
+
+Foreground vs Background: ./script & runs in background
