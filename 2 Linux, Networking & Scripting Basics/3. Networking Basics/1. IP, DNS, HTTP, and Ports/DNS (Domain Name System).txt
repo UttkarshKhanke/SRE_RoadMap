@@ -1,0 +1,4 @@
+🌍 DNS (Domain Name System)
+Converts human-readable domain names into IP addresses.
+
+e.g., www.google.com ➝ 142.250.72.196
