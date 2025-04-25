@@ -1,0 +1,2 @@
+curl -I https://example.com      # Show headers
+curl -X GET https://api.test.io  # Custom method
