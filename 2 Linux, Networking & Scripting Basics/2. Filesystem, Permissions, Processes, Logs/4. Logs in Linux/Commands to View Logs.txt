@@ -1,0 +1,5 @@
+cat /var/log/syslog
+tail -f /var/log/auth.log       # Live updates
+less /var/log/dmesg
+journalctl                      # View systemd logs
+journalctl -u nginx.service     # Logs of specific service
