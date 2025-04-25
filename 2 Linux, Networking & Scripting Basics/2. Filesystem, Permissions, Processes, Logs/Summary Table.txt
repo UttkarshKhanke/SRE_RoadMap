@@ -1,0 +1,7 @@
+🧰 Summary Table
+
+Area	Key Commands
+Filesystem	cd, ls, df, du, mount, umount
+Permissions	chmod, chown, ls -l, umask
+Processes	ps, top, kill, nice, jobs, fg, bg
+Logs	tail, less, journalctl, cat, grep
