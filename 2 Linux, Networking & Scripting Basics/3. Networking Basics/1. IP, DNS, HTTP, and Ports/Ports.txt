@@ -1,0 +1,16 @@
+🔌 Ports
+Logical communication endpoints.
+
+Common ports:
+
+22 – SSH
+
+80 – HTTP
+
+443 – HTTPS
+
+3306 – MySQL
+
+5432 – PostgreSQL
+
+8080 – Dev HTTP (e.g., Spring Boot)
