@@ -1,0 +1,10 @@
+🔹 Process Management Commands
+
+Command	Description
+ps aux	List all running processes
+top / htop	Live view of system processes
+kill PID	Stop a process by PID
+kill -9 PID	Force kill
+nice / renice	Change process priority
+jobs	List background jobs
+fg / bg	Bring jobs to foreground/background
