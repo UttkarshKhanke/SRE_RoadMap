@@ -1,0 +1,3 @@
+nslookup google.com
+dig openai.com
+host github.com
