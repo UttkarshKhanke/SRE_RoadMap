@@ -1,0 +1,4 @@
+🔍 Traceroute
+Shows the path a packet takes from your machine to a destination.
+
+Identifies network hops and delays.
