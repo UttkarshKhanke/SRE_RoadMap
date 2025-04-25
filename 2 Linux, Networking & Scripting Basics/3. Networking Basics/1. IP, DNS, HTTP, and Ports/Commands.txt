@@ -1,0 +1,2 @@
+ip addr        # Show network interfaces and IPs
+ifconfig       # (older) show IP details
