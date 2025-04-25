@@ -1,0 +1,9 @@
+🔹 System Log Files (Stored in /var/log/)
+
+File	Purpose
+/var/log/syslog or /var/log/messages	General system logs
+/var/log/auth.log	Authentication logs (logins, sudo, etc.)
+/var/log/kern.log	Kernel logs
+/var/log/dmesg	Boot-time messages
+/var/log/httpd/ or /var/log/nginx/	Web server logs
+/var/log/cron	Cron job logs
