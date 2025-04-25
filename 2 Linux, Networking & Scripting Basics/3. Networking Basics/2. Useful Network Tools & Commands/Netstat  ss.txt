@@ -1,0 +1,2 @@
+🧪 Netstat / ss
+Shows network connections, listening ports, and interface stats.
