@@ -1,0 +1,3 @@
+curl https://api.github.com/users/octocat
+curl -I https://openai.com       # Headers only
+curl -X POST -d "name=test" http://localhost/api
