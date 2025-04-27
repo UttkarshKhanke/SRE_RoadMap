@@ -1,0 +1,9 @@
+📡 Other Helpful Commands
+
+Command	Purpose
+ping google.com	Check basic connectivity
+wget	Download file via HTTP
+telnet host port	Check if port is open
+nc -zv host port	Test open port using netcat
+ip a or ip r	Show IP address or route
+arp	Show MAC/IP mapping (local network)
