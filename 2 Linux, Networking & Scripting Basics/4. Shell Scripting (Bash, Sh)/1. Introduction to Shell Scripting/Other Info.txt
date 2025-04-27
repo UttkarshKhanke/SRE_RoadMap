@@ -1,0 +1,6 @@
+Save as hello.sh
+
+Make executable: chmod +x hello.sh
+
+Run: ./hello.sh
+
