@@ -1,0 +1,5 @@
+Shell: Interface between the user and the OS.
+
+Bash: "Bourne Again SHell" – the most common shell.
+
+Shell Scripting: Writing a series of shell commands into a script file to automate tasks.
