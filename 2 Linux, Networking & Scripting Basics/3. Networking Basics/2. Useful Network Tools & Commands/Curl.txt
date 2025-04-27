@@ -1,0 +1,2 @@
+🌐 Curl
+Command-line HTTP client – powerful for testing APIs.
