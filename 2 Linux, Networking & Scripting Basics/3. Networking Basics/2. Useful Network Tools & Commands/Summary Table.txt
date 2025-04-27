@@ -1,0 +1,9 @@
+✅ Summary Table
+
+Concept	Tool/Command	Example
+IP Address	ip addr, ifconfig	ip addr show eth0
+DNS Lookup	dig, nslookup	dig google.com
+HTTP Testing	curl, wget	curl -I https://example.com
+Port Scanning	netstat, ss, nc	ss -tuln
+Network Route	traceroute	traceroute github.com
+Connectivity	ping, telnet	ping 8.8.8.8, telnet example.com 80
