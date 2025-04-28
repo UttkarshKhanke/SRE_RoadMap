@@ -1,0 +1,7 @@
+Symbol	Meaning
+-eq	Equal
+-ne	Not Equal
+-gt	Greater than
+-lt	Less than
+-ge	Greater or Equal
+-le	Less or Equal
