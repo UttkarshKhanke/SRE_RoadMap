@@ -1,0 +1,4 @@
+🔹 Exit Status
+$? holds the exit status of the last command.
+
+0 = success, non-zero = failure.
