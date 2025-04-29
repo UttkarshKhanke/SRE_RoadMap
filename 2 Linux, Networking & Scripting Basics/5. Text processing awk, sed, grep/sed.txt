@@ -1,0 +1,3 @@
+🧹 sed – Stream Editor
+✅ Purpose
+Performs basic text transformations on an input stream (file or pipeline).
