@@ -1,0 +1,9 @@
+| Command | Purpose |
+|---------|---------|
+| `echo` | Print text |
+| `read` | Take user input |
+| `test` / `[ ]` | Perform checks |
+| `set` | Set shell options |
+| `trap` | Capture signals (like Ctrl+C) |
+| `shift` | Move command-line arguments |
+| `source` / `.` | Run script in current shell |
