@@ -1,0 +1,8 @@
+🔥 Useful Features
+
+Symbol	Meaning
+$0	Whole line
+$1, $2	First, second fields
+NF	Number of fields
+NR	Current record (line) number
+BEGIN, END	Block before/after processing
