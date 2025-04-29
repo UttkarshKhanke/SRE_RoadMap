@@ -1,0 +1,9 @@
+✅ Mini Summary
+
+Area	Important Points
+Syntax	#!/bin/bash, no spaces around =
+Control Flow	if, for, while, case
+Functions	function_name() {}
+Arguments	$0, $1, $#, $@
+Error Handling	$?, exit, trap
+Utilities	grep, awk, sed, cut, sort
