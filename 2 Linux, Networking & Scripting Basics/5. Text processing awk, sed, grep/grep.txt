@@ -1,0 +1,3 @@
+🔍 grep – Global Regular Expression Print
+✅ Purpose
+Searches for matching patterns in a file or stream.
