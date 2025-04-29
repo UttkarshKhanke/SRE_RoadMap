@@ -1,0 +1,8 @@
+🔥 Common Options
+
+Option	Meaning
+-i	Ignore case
+-v	Invert match
+-n	Show line number
+-r	Recursive search
+-E	Extended regex (e.g., `grep -E "fail
