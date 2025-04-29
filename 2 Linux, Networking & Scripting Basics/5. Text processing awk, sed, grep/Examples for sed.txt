@@ -1,0 +1,4 @@
+grep "error" logfile.txt         # Find lines containing 'error'
+grep -i "warning" logfile.txt    # Case-insensitive search
+grep -v "debug" logfile.txt      # Invert match (exclude 'debug')
+grep -r "fail" /var/log/         # Recursive search in directory
