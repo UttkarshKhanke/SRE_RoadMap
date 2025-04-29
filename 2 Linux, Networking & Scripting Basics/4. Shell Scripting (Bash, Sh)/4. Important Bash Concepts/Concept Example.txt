@@ -1,0 +1,8 @@
+| Concept | Example |
+|---------|---------|
+| **`&&` and `||`** | Chain commands: `command1 && command2` |
+| **Pipes (`|`)** | Pass output: `ls | grep txt` |
+| **Redirects (`>`, `>>`, `<`)** | Output/Input: `ls > files.txt` |
+| **Arrays** | `arr=(one two three)` and `${arr[0]}` |
+| **String Manipulation** | `${var#pattern}`, `${var%pattern}` |
+| **Process Control** | Background jobs: `sleep 10 &` |
