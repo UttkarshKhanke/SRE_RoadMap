@@ -1,4 +1,4 @@
-grep "error" logfile.txt         # Find lines containing 'error'
-grep -i "warning" logfile.txt    # Case-insensitive search
-grep -v "debug" logfile.txt      # Invert match (exclude 'debug')
-grep -r "fail" /var/log/         # Recursive search in directory
+sed 's/error/ERROR/' logfile.txt     # Replace first 'error' with 'ERROR' per line
+sed 's/error/ERROR/g' logfile.txt    # Replace all 'error' with 'ERROR'
+sed -n '3,6p' file.txt               # Print only lines 3 to 6
+sed '/debug/d' file.txt             # Delete lines containing 'debug'

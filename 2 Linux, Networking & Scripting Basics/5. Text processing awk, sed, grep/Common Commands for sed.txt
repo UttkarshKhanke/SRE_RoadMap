@@ -1,0 +1,7 @@
+| Command | Meaning |
+|---------|---------|
+| `s/pattern/replacement/` | Substitute |
+| `p`     | Print |
+| `d`     | Delete |
+| `n`     | Next line |
+| `-i`    | Edit file in-place |
