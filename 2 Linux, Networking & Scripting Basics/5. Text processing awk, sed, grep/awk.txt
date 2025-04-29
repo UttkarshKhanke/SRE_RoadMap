@@ -1,0 +1,3 @@
+📊 awk – Pattern Scanning and Processing
+✅ Purpose
+Processes files line by line, splitting them into fields and applying actions.
