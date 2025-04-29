@@ -1,0 +1,5 @@
+Task	Example
+Backup files	Copy files with a timestamp
+Automation	Schedule tasks via cron jobs
+User management	Add/remove users automatically
+Monitoring	Script to check if a service is up
