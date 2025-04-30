@@ -1,0 +1,8 @@
+💡 Real-World SRE Use Cases
+
+Task	Tool	Example
+Find errors in logs	grep	grep -i "error" /var/log/app.log
+Extract columns from logs	awk	awk '{print $1, $4}' access.log
+Replace config values	sed	sed -i 's/port=8080/port=9090/' app.conf
+Delete noise lines	sed	sed '/DEBUG/d' app.log
+Aggregate log stats	awk	awk '{sum+=$3} END {print sum}'
