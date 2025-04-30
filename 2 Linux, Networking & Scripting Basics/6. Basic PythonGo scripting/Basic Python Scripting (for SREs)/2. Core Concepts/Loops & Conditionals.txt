@@ -1,0 +1,3 @@
+for svc in services:
+    if status[svc] == "running":
+        print(f"{svc} is OK")
