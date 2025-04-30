@@ -1,0 +1,1 @@
+echo -e "user1 90\nuser2 76\nuser3 88\nuser4 45" > marks.txt
