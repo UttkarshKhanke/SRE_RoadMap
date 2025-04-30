@@ -1,0 +1,5 @@
+Task	Example
+Check service status	Use subprocess to run shell commands
+Send alerts	Use requests to call Slack/Teams APIs
+Parse logs	Use re, json, csv modules
+REST API	Use requests or httpx to interact with APIs
