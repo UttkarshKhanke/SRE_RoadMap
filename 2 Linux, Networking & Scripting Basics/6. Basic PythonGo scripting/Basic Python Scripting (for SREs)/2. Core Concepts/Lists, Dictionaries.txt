@@ -1,0 +1,2 @@
+services = ["nginx", "mysql"]
+status = {"nginx": "running", "mysql": "stopped"}
