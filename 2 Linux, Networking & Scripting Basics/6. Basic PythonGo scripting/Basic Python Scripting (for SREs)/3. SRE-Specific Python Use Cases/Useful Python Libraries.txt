@@ -1,0 +1,10 @@
+🧰 Useful Python Libraries
+subprocess – run shell commands
+
+requests – call APIs
+
+json, csv – data handling
+
+logging – log events
+
+argparse – command-line tools
