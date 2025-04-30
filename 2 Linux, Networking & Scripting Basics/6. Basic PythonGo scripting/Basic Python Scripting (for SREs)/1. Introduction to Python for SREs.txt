@@ -1,0 +1,10 @@
+📖 1. Introduction to Python for SREs
+Python is widely used in SRE for:
+
+Automating tasks
+
+Parsing logs and metrics
+
+Writing bots and integrations (e.g., Slack alerts)
+
+REST API interaction (e.g., Grafana, Prometheus, Kubernetes)
