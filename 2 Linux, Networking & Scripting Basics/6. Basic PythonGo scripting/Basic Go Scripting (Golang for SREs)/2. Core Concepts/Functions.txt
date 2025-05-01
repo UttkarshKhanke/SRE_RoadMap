@@ -1,0 +1,3 @@
+func greet(name string) {
+    fmt.Println("Hello", name)
+}
