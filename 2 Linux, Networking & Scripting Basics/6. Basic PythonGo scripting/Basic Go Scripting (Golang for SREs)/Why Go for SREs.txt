@@ -1,0 +1,6 @@
+📖 1. Why Go for SREs?
+Fast and compiled
+
+Statically typed
+
+Ideal for building monitoring tools, CLIs, and efficient background services
