@@ -1,0 +1,6 @@
+⚙️ 3. Go SRE Use Cases
+Task	Example
+Health check server	Build a simple HTTP server
+Parse logs or config	Use strings, bufio, or os
+REST APIs	Use net/http package
+Concurrency	Use goroutines for parallel tasks
