@@ -1,0 +1,10 @@
+🔨 Useful Go Packages
+os, bufio, io/ioutil – file handling
+
+net/http – REST APIs
+
+log – logging
+
+flag – CLI tools
+
+strings, regexp – text processing
