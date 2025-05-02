@@ -1,0 +1,7 @@
+✅ Summary: Python vs Go for SREs
+Feature	Python	Go
+Simplicity	Easy, beginner-friendly	More verbose, compiled
+Libraries	Rich standard libraries	Lean but efficient
+Ideal For	Automation, quick scripts	Long-running tools, APIs
+Speed	Slower	Much faster
+DevOps Usage	Very high	Increasing rapidly
