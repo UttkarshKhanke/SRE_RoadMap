@@ -1,0 +1,5 @@
+📚 Summary
+Concept	Monitoring	Observability
+Known vs Unknown	Detect known problems	Explore unknown issues
+Usage	Alerting, health checks	Debugging, understanding system
+Tools	Prometheus, Nagios, Zabbix	OpenTelemetry, Jaeger, Honeycomb
