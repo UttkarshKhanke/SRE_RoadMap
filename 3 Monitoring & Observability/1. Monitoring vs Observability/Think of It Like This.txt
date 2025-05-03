@@ -1,0 +1,5 @@
+🧠 Think of It Like This:
+Question	Monitoring Answers	Observability Answers
+Is the service running?	✅ Yes or ❌ No	✅ But why is it slow or failing?
+What is the CPU usage?	🔢 95%	📈 And how does that affect performance?
+Are there errors in logs?	🔍 Yes	🧩 What's the flow of the failing request? What component caused it?
