@@ -1,0 +1,2 @@
+🔹 Introduction:
+Monitoring tells you what is happening; observability helps you understand why. Both are essential to proactively maintain system reliability.
