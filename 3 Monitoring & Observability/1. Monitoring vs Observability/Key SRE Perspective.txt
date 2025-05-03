@@ -1,0 +1,7 @@
+🎯 Key SRE Perspective
+Monitoring is essential for SLI/SLO tracking, alerting, and uptime reports.
+
+Observability is crucial for incident response, debugging unknowns, and understanding system behavior during edge cases or failures.
+
+✅ Monitoring = seeing the symptoms
+🧠 Observability = finding the cause
