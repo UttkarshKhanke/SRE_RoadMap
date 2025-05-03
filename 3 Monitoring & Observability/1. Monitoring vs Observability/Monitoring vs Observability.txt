@@ -1,0 +1,18 @@
+🧭 Monitoring vs Observability
+Aspect	Monitoring	Observability
+Definition	Monitoring is the process of collecting, analyzing, and alerting on predefined metrics or logs.	Observability is the capability to understand the internal state of a system based on external outputs.
+Goal	Detect known problems and alert when thresholds are breached.	Diagnose unknown issues and understand why something is wrong.
+Scope	Narrow – focuses on specific known metrics or logs.	Broad – involves metrics, logs, traces, and other signals to derive system state.
+Proactive or Reactive?	Mainly reactive – alerts when a threshold is crossed.	Proactive and reactive – allows exploration before or after issues occur.
+Data Types	Typically deals with:
+• Metrics (CPU, Memory, Latency)
+• Logs	Involves:
+• Metrics
+• Logs
+• Traces
+• Events
+• Dependencies
+Answers	“Is something broken?”	“Why is it broken?” and “What can we do about it?”
+Tools	Prometheus, Nagios, Zabbix, Icinga, Datadog (basic usage)	Grafana, ELK Stack, OpenTelemetry, Honeycomb, Jaeger, Lightstep, Datadog (full observability stack)
+SRE Use	Helps with alerting and uptime tracking.	Enables deep debugging, root cause analysis, and understanding complex interactions.
+Example	Alert when CPU > 90% for 5 minutes.	Understand why CPU is high by tracing requests across microservices.
