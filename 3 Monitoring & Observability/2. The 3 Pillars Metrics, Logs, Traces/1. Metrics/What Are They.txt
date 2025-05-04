@@ -1,0 +1,4 @@
+🔎 What Are They?
+Numeric measurements representing system behavior over time.
+
+Collected at regular intervals (time-series data).
