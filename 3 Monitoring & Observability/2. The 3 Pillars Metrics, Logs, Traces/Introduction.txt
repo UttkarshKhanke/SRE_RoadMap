@@ -1,0 +1,2 @@
+🏛 The 3 Pillars of Observability
+Observability is not just about seeing that something is wrong — it’s about understanding why it’s wrong. That understanding comes from three core types of telemetry data:
