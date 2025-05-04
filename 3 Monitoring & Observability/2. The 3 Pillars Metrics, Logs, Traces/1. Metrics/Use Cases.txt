@@ -1,0 +1,6 @@
+⚙️ Use Cases:
+SLOs and SLIs tracking
+
+Alerting (e.g., CPU > 90%)
+
+Trend analysis and capacity planning
