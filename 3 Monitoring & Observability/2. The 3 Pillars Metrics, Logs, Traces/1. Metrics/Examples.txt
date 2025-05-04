@@ -1,0 +1,12 @@
+✅ Examples:
+CPU usage
+
+Memory usage
+
+Disk I/O
+
+Request count
+
+Error rate
+
+Latency (e.g., 99th percentile)
