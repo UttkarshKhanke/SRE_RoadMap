@@ -1,0 +1,6 @@
+⚙️ Use Cases:
+Debugging and root cause analysis
+
+Auditing and compliance
+
+Identifying patterns or anomalies
