@@ -1,0 +1,6 @@
+⚙️ Use Cases:
+Performance bottleneck analysis
+
+Service dependency visualization
+
+Identifying slow or failing microservices
