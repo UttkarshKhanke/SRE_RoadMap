@@ -1,0 +1,4 @@
+🔎 What Are They?
+Detailed records of a single request’s journey through a distributed system.
+
+Comprised of spans that show how long each operation took and where it happened.
