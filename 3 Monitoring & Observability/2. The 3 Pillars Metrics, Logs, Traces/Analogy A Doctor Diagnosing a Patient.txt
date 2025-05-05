@@ -1,0 +1,6 @@
+🧠 Analogy: A Doctor Diagnosing a Patient
+Role	In Medicine	In SRE
+Metrics	Vitals (heart rate, BP)	CPU, Memory, Latency
+Logs	Symptoms Description	Errors, Stack Traces
+Traces	Medical Tests/Scans	Detailed breakdown of a request's path
+
