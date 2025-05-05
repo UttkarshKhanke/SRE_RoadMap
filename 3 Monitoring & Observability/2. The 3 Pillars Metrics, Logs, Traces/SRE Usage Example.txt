@@ -1,0 +1,11 @@
+👨‍💻 SRE Usage Example:
+Let’s say users are reporting slow checkout on your e-commerce app:
+
+Metrics show 99th percentile latency is rising on the /checkout endpoint.
+
+Logs reveal errors like "Timeout when calling payment gateway".
+
+Traces show the request spent 1.5 seconds on the payment service call, instead of 300ms.
+
+Now you know what’s wrong, why it’s wrong, and where to fix it — thanks to all three pillars.
+
