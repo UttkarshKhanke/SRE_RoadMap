@@ -1,0 +1,6 @@
+🎯 Summary Table
+Feature	Metrics	Logs	Traces
+Type	Numeric time-series	Text-based events	Request-specific event flow
+Purpose	Monitor and alert	Debug and investigate issues	Analyze request flow in systems
+Granularity	Aggregated (coarse)	Detailed per event	End-to-end request-level insight
+Storage	TSDB (e.g., Prometheus)	Search indexes (e.g., Elasticsearch)	Trace stores (e.g., Jaeger, Zipkin)
