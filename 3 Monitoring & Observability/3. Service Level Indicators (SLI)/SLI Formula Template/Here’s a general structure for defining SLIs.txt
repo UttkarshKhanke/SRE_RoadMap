@@ -1,0 +1,1 @@
+SLI = (Good Events / Total Events) × 100
