@@ -1,0 +1,5 @@
+📏 Service Level Indicators (SLIs)
+📌 What is an SLI?
+An SLI (Service Level Indicator) is a quantitative measure of some aspect of the service’s behavior, used to understand its performance and reliability from the user’s perspective.
+
+It answers: “How well is the service doing?”
