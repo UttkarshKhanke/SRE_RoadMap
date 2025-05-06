@@ -1,0 +1,5 @@
+Where:
+
+Good Events = Satisfied user experience (fast, correct, available)
+
+Total Events = All attempts or interactions
