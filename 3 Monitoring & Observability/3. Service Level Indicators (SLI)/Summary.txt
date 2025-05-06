@@ -1,0 +1,6 @@
+🛡️ Summary
+Term	Meaning
+SLI	The measured indicator (e.g., availability)
+It tells	How well the service is performing
+Why it matters	Helps drive reliability, alerting, and accountability
+
