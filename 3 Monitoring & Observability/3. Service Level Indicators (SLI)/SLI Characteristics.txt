@@ -1,0 +1,6 @@
+✅ SLI Characteristics
+Feature	Description
+Quantifiable	Must be a number – percentages, durations, counts
+User-focused	Reflects what users experience, not just system health
+Specific	Tailored to critical functionality (login, checkout, file upload, etc.)
+Actionable	Drives alerting, budgeting, and reliability decisions
