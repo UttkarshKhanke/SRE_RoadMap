@@ -1,0 +1,5 @@
+🧩 Relationship to SLO and SLA
+Concept	Description
+SLI	What you measure (e.g., 99.95% success rate)
+SLO (Objective)	Target for the SLI (e.g., 99.9% uptime over 30 days)
+SLA (Agreement)	Formal contract with penalties (e.g., credits for downtime)
