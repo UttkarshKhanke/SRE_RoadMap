@@ -1,0 +1,1 @@
+SLI = (Number of successful payment requests / Total payment requests) × 100
