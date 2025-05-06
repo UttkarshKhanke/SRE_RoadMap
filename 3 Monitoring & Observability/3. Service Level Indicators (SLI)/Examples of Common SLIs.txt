@@ -1,0 +1,9 @@
+🧪 Examples of Common SLIs
+Category	SLI Example	Description
+Availability	% of successful HTTP responses (200s)	Measures uptime
+Latency	% of requests < 300ms	Measures response speed
+Error Rate	% of failed requests (5xx)	Measures failure frequency
+Throughput	Number of requests per second (RPS)	Measures traffic volume
+Durability	% of data successfully stored without loss	Measures data safety
+Correctness	% of responses returning expected results	Measures logical accuracy
+Freshness	Time since last successful data update	Measures content relevance
