@@ -1,0 +1,3 @@
+🧠 Key Idea
+SLIs are the metrics used to evaluate whether a service is meeting its goals (SLOs).
+They must be objective, measurable, and user-centric.
