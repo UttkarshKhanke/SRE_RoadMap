@@ -1,0 +1,14 @@
+📈 Visualization Example
+If your dashboard shows:
+
+97% success rate this month
+
+Your SLO is 99.9%
+
+Then your SLI (97%) indicates a violation of the target, possibly triggering actions like:
+
+Paging on-call engineers
+
+Blocking new feature rollouts
+
+Using error budgets
