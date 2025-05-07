@@ -1,0 +1,5 @@
+💬 Analogy: Air Travel
+SLI	SLO
+On-time arrival %	95% of flights on time
+Baggage loss rate	< 0.2% lost bags per month
+
