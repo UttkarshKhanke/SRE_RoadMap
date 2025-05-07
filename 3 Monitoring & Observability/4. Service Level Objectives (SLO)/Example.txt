@@ -1,0 +1,12 @@
+📏 Example
+Let’s say your SLI is:
+
+"Percentage of successful HTTP requests over the last 30 days"
+
+Then, your SLO might be:
+
+"99.9% of requests must succeed over a 30-day rolling window"
+
+If you served 1,000,000 requests in 30 days, your SLO permits:
+
+Up to 1,000 requests to fail before breaching the objective
