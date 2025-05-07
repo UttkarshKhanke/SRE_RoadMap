@@ -1,0 +1,6 @@
+💡 Why SLOs Matter in SRE
+Benefit	Description
+🔔 Smart Alerting	Reduces alert noise by only paging when SLOs are at risk
+⚖️ Risk Management	Helps balance reliability with innovation
+🧮 Error Budgeting	Quantifies how much failure is acceptable
+📢 Transparency	Sets clear expectations between SREs, developers, and business
