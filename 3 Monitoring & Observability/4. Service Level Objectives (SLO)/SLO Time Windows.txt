@@ -1,0 +1,6 @@
+📅 SLO Time Windows
+Short-term (1h, 1d): useful for alerting
+
+Mid-term (7d, 30d): common for monitoring
+
+Long-term (quarterly, yearly): used for business SLAs and audits
