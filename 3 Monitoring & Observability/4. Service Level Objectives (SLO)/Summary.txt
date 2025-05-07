@@ -1,0 +1,6 @@
+✅ Summary
+Feature	Description
+What it is	A performance or reliability target
+Why it matters	Guides teams toward the right reliability trade-offs
+Tied to	SLIs and Error Budgets
+Used by	SREs, developers, business owners
