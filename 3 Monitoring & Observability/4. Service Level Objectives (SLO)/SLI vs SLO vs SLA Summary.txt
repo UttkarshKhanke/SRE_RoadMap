@@ -1,0 +1,6 @@
+📊 SLI vs SLO vs SLA Summary
+Concept	Purpose	Example
+SLI	What is measured	99.93% success rate
+SLO	What is the target	Maintain ≥ 99.9%
+SLA	What is the agreement	99.5% guaranteed or refund applies
+
