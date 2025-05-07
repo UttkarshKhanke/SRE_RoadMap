@@ -1,0 +1,10 @@
+🛠️ Steps to Define a Good SLO
+Identify user-facing services (e.g., login, search, checkout)
+
+Define SLIs (e.g., latency, availability, error rate)
+
+Set realistic SLO targets (e.g., 99.95% availability)
+
+Determine measurement window (e.g., 30 days)
+
+Monitor continuously and report progress
