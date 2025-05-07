@@ -1,0 +1,6 @@
+🎯 Service Level Objectives (SLOs)
+📌 What is an SLO?
+A Service Level Objective (SLO) is a target value or range for a Service Level Indicator (SLI). It defines how reliable a service is expected to be over a specified time period.
+
+SLI = what you measure
+SLO = what you aim for
