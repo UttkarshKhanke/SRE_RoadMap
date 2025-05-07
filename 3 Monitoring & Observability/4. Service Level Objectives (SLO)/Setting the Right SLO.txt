@@ -1,0 +1,10 @@
+⚠️ Setting the Right SLO
+Goal	SLO Suggestion
+Mission-critical API	99.99% availability
+Public website	99.9%
+Internal dashboard	99.5%
+Batch data pipeline	98% on-time completion
+
+Too high → Impossible to meet; constant alerts
+Too low → Too lenient; poor user experience
+
