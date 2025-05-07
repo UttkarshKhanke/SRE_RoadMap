@@ -1,0 +1,5 @@
+🎯 SLO = Performance Goal
+SLI (what we measure)	SLO (what we expect)
+99.95% uptime	Maintain 99.9% uptime monthly
+95% of requests < 300ms	Ensure 95% of requests complete under 300ms
+Error rate < 0.1%	Allow no more than 0.1% failure over 7 days
