@@ -1,0 +1,5 @@
+📄 Service Level Agreements (SLA)
+📌 What is an SLA?
+A Service Level Agreement (SLA) is a formal contract or agreement between a service provider and a customer that outlines the guaranteed level of service and the penalties or remedies if those guarantees are not met.
+
+It is legally or financially binding, unlike SLOs or SLIs.
