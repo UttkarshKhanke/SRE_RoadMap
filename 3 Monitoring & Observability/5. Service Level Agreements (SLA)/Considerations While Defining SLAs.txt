@@ -1,0 +1,10 @@
+⚠️ Considerations While Defining SLAs
+Be realistic and achievable
+
+Include measurement periods (e.g., monthly)
+
+Account for planned maintenance
+
+Clearly define exclusions
+
+Base it on user impact, not just system health
