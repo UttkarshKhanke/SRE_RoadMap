@@ -1,0 +1,6 @@
+✅ Summary
+Feature	Description
+What it is	A contract defining service expectations and penalties
+Why it matters	Ensures accountability and trust with customers
+Related to	SLIs (measured) and SLOs (targets)
+Owned by	Business, Legal, and SRE teams jointly
