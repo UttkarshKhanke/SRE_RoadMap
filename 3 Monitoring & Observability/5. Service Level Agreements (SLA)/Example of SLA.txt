@@ -1,0 +1,13 @@
+
+📊 Example of SLA
+For a cloud storage provider:
+
+Availability SLA: 99.9% monthly uptime
+
+SLO (internal): 99.95%
+
+Penalty:
+
+10% service credit if uptime is between 99.0% – 99.89%
+
+25% service credit if uptime is < 99.0%
