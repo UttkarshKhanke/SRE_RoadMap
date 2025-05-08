@@ -1,0 +1,8 @@
+🧱 Components of an SLA
+Element	Description
+Service Description	What the service provides (e.g., API, website, email server)
+SLIs/SLOs	Key metrics and targets (e.g., 99.9% uptime)
+Measurement Method	How performance is monitored and calculated
+Penalties/Compensation	Refunds or credits if SLOs are not met
+Exclusions	What doesn't count (e.g., maintenance windows, third-party issues)
+Escalation Process	What happens when targets are missed repeatedly
