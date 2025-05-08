@@ -1,0 +1,7 @@
+🧠 Business Impact
+SLA Level	Target Service
+99.999% (5 nines)	Mission-critical systems (e.g., banking, emergency systems)
+99.99%	Premium APIs
+99.9%	Public web services
+99.5% or lower	Internal tools or non-critical systems
+
