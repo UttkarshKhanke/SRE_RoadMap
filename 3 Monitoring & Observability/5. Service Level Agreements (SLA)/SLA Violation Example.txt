@@ -1,0 +1,12 @@
+⚖️ SLA Violation Example
+If a service has:
+
+SLA = 99.9% uptime
+
+Actual uptime in a month = 99.6%
+
+Then:
+
+SLA is violated
+
+The provider may owe credits or compensation
