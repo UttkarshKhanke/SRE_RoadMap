@@ -1,0 +1,8 @@
+🧠 Purpose of an SLA
+Sets clear expectations with customers
+
+Defines accountability for reliability and availability
+
+Establishes financial consequences for failures (e.g., refunds, credits)
+
+Helps manage customer trust and risk
