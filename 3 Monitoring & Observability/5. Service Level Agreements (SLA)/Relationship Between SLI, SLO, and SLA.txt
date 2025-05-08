@@ -1,0 +1,7 @@
+🔄 Relationship Between SLI, SLO, and SLA
+Term	Description	Focus	Binding?
+SLI	What is measured (e.g., response time)	Technical	❌ No
+SLO	Target performance (e.g., <300ms latency 99% of time)	Engineering	❌ No
+SLA	Contractual commitment (e.g., 99.9% uptime)	Business	✅ Yes
+
+SRE teams usually set SLOs more strictly than SLAs to avoid breaching contracts.
