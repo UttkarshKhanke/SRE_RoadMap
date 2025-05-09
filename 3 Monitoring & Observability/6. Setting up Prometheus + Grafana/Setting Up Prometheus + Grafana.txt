@@ -1,0 +1,6 @@
+🛠️ Setting Up Prometheus + Grafana
+🔧 Goal:
+Prometheus: Collects and stores metrics.
+
+Grafana: Visualizes those metrics through dashboards.
+
