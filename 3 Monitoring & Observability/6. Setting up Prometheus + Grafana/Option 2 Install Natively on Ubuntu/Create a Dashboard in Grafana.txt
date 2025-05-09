@@ -1,0 +1,8 @@
+📊 Create a Dashboard in Grafana
+Go to + → Dashboard
+
+Add a new panel
+
+Choose a metric (e.g., up, node_cpu_seconds_total, etc.)
+
+Customize visualization and save the dashboard
