@@ -1,0 +1,13 @@
+🔗 Configure Prometheus as a Grafana Data Source
+Login to Grafana
+
+Go to Configuration → Data Sources
+
+Click Add Data Source
+
+Select Prometheus
+
+Enter URL: http://prometheus:9090 (or http://localhost:9090 if running on same machine)
+
+Click Save & Test
+
