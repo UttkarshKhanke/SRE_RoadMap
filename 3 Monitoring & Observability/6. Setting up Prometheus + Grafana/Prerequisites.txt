@@ -1,0 +1,7 @@
+✅ Prerequisites:
+A Linux system (Ubuntu recommended) or Docker installed
+
+Internet connection
+
+Basic terminal access and sudo rights
+
