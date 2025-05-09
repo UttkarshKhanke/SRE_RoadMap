@@ -1,0 +1,6 @@
+🧩 Add Exporters (Optional but Important)
+Exporter	Metrics
+node_exporter	System metrics (CPU, RAM, Disk)
+blackbox_exporter	HTTP uptime checks
+cadvisor	Docker container metrics
+mysqld_exporter	MySQL DB metrics
