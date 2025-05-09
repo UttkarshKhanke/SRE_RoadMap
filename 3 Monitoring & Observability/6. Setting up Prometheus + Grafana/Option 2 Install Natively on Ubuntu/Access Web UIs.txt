@@ -1,0 +1,4 @@
+🖥️ Access Web UIs
+Tool	URL
+Prometheus	http://localhost:9090
+Grafana	http://localhost:3000 (default user: admin, password: admin)
