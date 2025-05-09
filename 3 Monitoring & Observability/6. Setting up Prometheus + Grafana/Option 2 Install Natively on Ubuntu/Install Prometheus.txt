@@ -1,0 +1,8 @@
+sudo useradd --no-create-home --shell /bin/false prometheus
+wget https://github.com/prometheus/prometheus/releases/latest/download/prometheus-<version>.linux-amd64.tar.gz
+tar -xvf prometheus-*.tar.gz
+sudo cp prometheus*/prometheus /usr/local/bin/
+sudo cp prometheus*/promtool /usr/local/bin/
+sudo mkdir -p /etc/prometheus /var/lib/prometheus
+sudo cp -r prometheus*/consoles /etc/prometheus/
+sudo cp -r prometheus*/console_libraries /etc/prometheus/
