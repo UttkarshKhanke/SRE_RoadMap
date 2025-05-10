@@ -1,0 +1,8 @@
+[App Logs] → [Promtail / Fluent Bit / Docker Driver] → [Loki] → [Grafana]
+
+Promtail is the official log collector for Loki (like Filebeat)
+
+Logs are pushed to Loki
+
+Grafana visualizes logs alongside metrics and traces
+
