@@ -1,0 +1,4 @@
+🔹 What is Loki?
+Loki is a log aggregation system from Grafana Labs, designed to work like Prometheus — but for logs.
+
+Instead of full indexing like Elasticsearch, Loki indexes only labels (e.g., app, job, host), which makes it lightweight and fast for time-series + logs use cases.
