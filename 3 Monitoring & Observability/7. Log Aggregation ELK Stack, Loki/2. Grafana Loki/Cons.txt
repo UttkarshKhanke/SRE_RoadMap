@@ -1,0 +1,7 @@
+❌ Cons:
+Not full-text searchable (indexes labels only)
+
+Less powerful log transformations compared to Logstash
+
+Not ideal for very complex log queries
+
