@@ -1,0 +1,3 @@
+📄 Log Aggregation: ELK Stack vs Loki
+Log aggregation means collecting, centralizing, and making logs searchable and analyzable from multiple sources (e.g., servers, containers, apps).
+
