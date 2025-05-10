@@ -1,0 +1,10 @@
+[App Logs] → [Filebeat] → [Logstash] → [Elasticsearch] → [Kibana]
+
+Filebeat reads logs from files (e.g., /var/log/*.log)
+
+Logstash can parse/filter/transform logs
+
+Elasticsearch stores logs for fast search
+
+Kibana provides dashboards and querying interface
+
