@@ -1,0 +1,8 @@
+✅ Pros:
+Powerful full-text search
+
+Rich visualization (Kibana)
+
+Mature and widely used
+
+Flexible ingestion (supports many log sources)
