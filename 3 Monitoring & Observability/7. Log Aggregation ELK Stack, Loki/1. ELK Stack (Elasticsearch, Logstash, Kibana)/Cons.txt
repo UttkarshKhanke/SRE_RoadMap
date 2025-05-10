@@ -1,0 +1,6 @@
+❌ Cons:
+Heavy resource usage (especially Elasticsearch)
+
+Complex to scale and manage
+
+Logstash can be slow with high volumes
