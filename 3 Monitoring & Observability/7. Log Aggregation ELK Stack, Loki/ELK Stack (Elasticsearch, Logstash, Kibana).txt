@@ -1,0 +1,9 @@
+🧰 1. ELK Stack (Elasticsearch, Logstash, Kibana)
+🔹 What is the ELK Stack?
+Component	Role
+Elasticsearch	Search engine that stores and indexes logs
+Logstash	Data processing pipeline for collecting, parsing, and sending logs
+Kibana	Visualization UI to search, filter, and view logs in Elasticsearch
+
+Often used with Filebeat (lightweight log shipper) → becomes ELK + Beats stack.
+
