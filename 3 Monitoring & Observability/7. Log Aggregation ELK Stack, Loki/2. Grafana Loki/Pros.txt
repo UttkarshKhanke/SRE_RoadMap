@@ -1,0 +1,8 @@
+✅ Pros:
+Lightweight and cost-efficient
+
+Tight integration with Grafana
+
+Easy to use with Prometheus
+
+Great for Kubernetes (e.g., use with kubectl logs alternative)
