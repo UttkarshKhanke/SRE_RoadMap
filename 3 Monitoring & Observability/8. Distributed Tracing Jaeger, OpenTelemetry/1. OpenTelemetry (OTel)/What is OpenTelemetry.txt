@@ -1,0 +1,6 @@
+🔹 What is OpenTelemetry?
+OpenTelemetry is a vendor-neutral observability framework that enables:
+
+Generating traces, metrics, and logs from your code
+
+Exporting data to backends like Jaeger, Zipkin, Prometheus, Grafana, etc.
