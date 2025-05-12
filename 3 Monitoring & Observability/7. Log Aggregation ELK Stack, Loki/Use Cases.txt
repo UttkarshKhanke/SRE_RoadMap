@@ -1,0 +1,5 @@
+🧪 Use Cases
+ELK Stack: When you need complex log parsing, full-text search, and detailed visual analytics (e.g., large enterprise apps).
+
+Loki: When logs are mostly needed alongside metrics (SRE-friendly), in resource-sensitive environments (e.g., Kubernetes clusters).
+
