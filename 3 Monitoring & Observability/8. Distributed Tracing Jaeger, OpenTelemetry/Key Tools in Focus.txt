@@ -1,0 +1,4 @@
+🧰 Key Tools in Focus
+Tool	Purpose
+OpenTelemetry	Standard SDK and APIs to generate and export traces, metrics, logs
+Jaeger	Backend and UI for collecting, storing, and visualizing traces
