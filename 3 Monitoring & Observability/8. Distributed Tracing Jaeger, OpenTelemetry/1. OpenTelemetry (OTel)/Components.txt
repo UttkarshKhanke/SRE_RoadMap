@@ -1,0 +1,6 @@
+📦 Components
+SDKs for many languages (Java, Python, Go, Node.js, etc.)
+
+OTel Collector: receives, processes, and exports telemetry data
+
+Instrumentation libraries: automatically trace HTTP, gRPC, DB calls
