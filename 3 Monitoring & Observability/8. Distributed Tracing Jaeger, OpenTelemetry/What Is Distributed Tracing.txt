@@ -1,0 +1,10 @@
+🚀 What Is Distributed Tracing?
+Distributed tracing tracks a request as it flows through various services in a microservices architecture. It helps you:
+
+Visualize the request path
+
+Measure latency per service
+
+Identify bottlenecks
+
+Correlate traces with logs and metrics
