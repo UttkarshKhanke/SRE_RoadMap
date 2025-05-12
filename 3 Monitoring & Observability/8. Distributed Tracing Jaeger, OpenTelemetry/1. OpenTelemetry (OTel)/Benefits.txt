@@ -1,0 +1,7 @@
+✅ Benefits
+Unified standard for observability
+
+Works across languages and platforms
+
+Supported by CNCF and integrates with all major tools (Grafana, New Relic, etc.)
+
