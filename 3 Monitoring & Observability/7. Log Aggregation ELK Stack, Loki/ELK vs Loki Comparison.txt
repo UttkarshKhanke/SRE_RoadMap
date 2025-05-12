@@ -1,0 +1,8 @@
+📊 ELK vs Loki Comparison
+Feature	ELK Stack	Loki
+Indexing	Full-text	Label-only
+Resource Usage	High	Low
+Visualization	Kibana	Grafana
+Search Power	Very strong	Moderate
+Setup Complexity	Medium-High	Low-Medium
+Kubernetes Native	Not natively	Yes (especially with Promtail)
