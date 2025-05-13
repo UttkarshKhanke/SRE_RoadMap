@@ -1,0 +1,2 @@
+🔹 What is Jaeger?
+Jaeger is a CNCF project for distributed tracing. Originally developed by Uber.
