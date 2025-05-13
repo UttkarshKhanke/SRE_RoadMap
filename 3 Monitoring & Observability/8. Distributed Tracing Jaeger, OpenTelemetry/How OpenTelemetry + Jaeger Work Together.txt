@@ -1,0 +1,8 @@
+🏗️ How OpenTelemetry + Jaeger Work Together
+App code is instrumented with OpenTelemetry SDK
+
+Data (spans/metrics) is collected by OTel Collector
+
+Data is sent to Jaeger backend
+
+Jaeger UI shows the trace timelines
