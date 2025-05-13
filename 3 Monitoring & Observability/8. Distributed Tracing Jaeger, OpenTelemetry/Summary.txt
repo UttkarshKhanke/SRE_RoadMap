@@ -1,0 +1,7 @@
+✅ Summary
+Use OpenTelemetry to generate and export telemetry (traces, metrics, logs)
+
+Use Jaeger to visualize traces and troubleshoot performance
+
+Together, they provide deep observability in microservices-based environments
+
