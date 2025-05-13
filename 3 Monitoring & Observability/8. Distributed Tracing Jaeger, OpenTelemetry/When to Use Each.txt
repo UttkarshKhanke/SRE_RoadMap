@@ -1,0 +1,7 @@
+🧠 When to Use Each
+Feature	OpenTelemetry	Jaeger
+Role	Generates + exports telemetry	Stores + visualizes traces
+Focus	Instrumentation & export	Visualization & analysis
+Custom Tracing	Yes (any app)	No (only stores/shows)
+Complementary?	Yes	Yes (can integrate directly)
+
