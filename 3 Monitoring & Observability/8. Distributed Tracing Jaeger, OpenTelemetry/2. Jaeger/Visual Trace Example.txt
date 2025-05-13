@@ -1,0 +1,6 @@
+🖼️ Visual Trace Example
+Jaeger UI shows a Gantt chart style view of:
+
+Frontend → Auth Service → Billing Service → Notification
+
+Each service's latency is shown, helping identify which service caused slowness.
