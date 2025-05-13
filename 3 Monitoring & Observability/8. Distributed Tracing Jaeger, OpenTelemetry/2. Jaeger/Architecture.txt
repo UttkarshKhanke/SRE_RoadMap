@@ -1,0 +1,10 @@
+🧩 Architecture
+Client libraries generate trace spans
+
+Agent receives and batches spans
+
+Collector stores spans
+
+Query service allows searching traces
+
+UI to visualize the trace flow
